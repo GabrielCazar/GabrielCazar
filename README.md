@@ -1,65 +1,49 @@
 # Olá, eu sou o Gabriel Cazar 👋
 
-### Desenvolvedor de Software | Sistemas Operacionais & Sistemas de Gestão — tudo em Rust 🦀
+### Desenvolvedor de software com foco em Rust, sistemas operacionais e engenharia de sistemas
 
-Construo desde kernels até aplicações de negócio, sempre com **Rust** como
-linguagem principal. Atualmente desenvolvendo o **carlIO OS** e o **SistemaIntegrado**.
+Gosto de entender o software de ponta a ponta: da interação com hardware e memória até as ferramentas e interfaces usadas por quem opera o sistema. Atualmente, meu principal projeto é o **CarlioOS**, um sistema operacional experimental para x86-64 desenvolvido em Rust.
 
----
+## 🚀 Projeto em destaque
 
-## 🚀 Projetos em Destaque
+### [CarlioOS](https://github.com/GabrielCazar/carlio-os)
 
-### 🐧 carlIO OS
-Sistema operacional baseado em **Arch Linux**, com **kernel escrito 100% em Rust**.
-Projeto voltado para [segurança de memória, performance, aprendizado de sistemas — ajuste].
+Um sistema operacional experimental de 64 bits, com kernel em Rust e foco na arquitetura x86-64. O projeto explora conceitos de baixo nível e compatibilidade com userland Linux, com desenvolvimento incremental e estado documentado por fase.
 
-**Stack:** Rust · Arch Linux · Linux Kernel
-🔗 [github.com/GabrielCazar/carlIO-OS](https://github.com/GabrielCazar/carlIO-OS)
+**Áreas que estou desenvolvendo e estudando:**
 
----
+- Kernel e arquitetura x86-64, inicialização BIOS/UEFI e execução em QEMU.
+- Gerência de memória virtual, heap, interrupções, sincronização e SMP.
+- Processos, formato ELF, syscalls e compatibilidade progressiva com ABI Linux.
+- VFS, sistemas de arquivos FAT32 e ext4, armazenamento experimental e rede.
+- Ferramentas em Rust para administrar volumes de teste e analisar logs.
 
-### 🏢 SistemaIntegrado
-Sistema de gestão empresarial completo, com módulos para [financeiro, estoque,
-vendas, RH — ajuste aqui]. Focado em [automação de processos, usabilidade, etc.].
+O CarlioOS ainda é um protótipo experimental. O README do projeto e seus relatórios distinguem recursos planejados, em desenvolvimento e validados, com atenção aos limites de segurança e aos resultados de teste disponíveis.
 
-**Stack:** Rust · [framework web em Rust, ex: Axum/Actix — ajuste] · [banco de dados]
-🔗 [github.com/GabrielCazar/SistemaIntegrado](https://github.com/GabrielCazar/SistemaIntegrado)
+## 🧭 Como trabalho
 
-> 🦀 **Ambos os projetos são desenvolvidos inteiramente em Rust** — do kernel
-> de baixo nível à aplicação de gestão empresarial.
+- **Visão de sistemas:** interesse em como kernel, hardware, memória, armazenamento e aplicações se conectam.
+- **Aprendizado prático:** estudo conceitos complexos construindo componentes e ferramentas reais.
+- **Desenvolvimento cuidadoso:** avanço por etapas, registrando decisões, limites conhecidos e evidências de validação.
+- **Documentação técnica:** organizo arquitetura, roadmap, fluxos e critérios para tornar o estado do projeto compreensível.
+- **Atenção à segurança:** considero isolamento, integridade dos dados e falhas como partes centrais da engenharia, não como detalhes posteriores.
 
----
+## 🛠️ Tecnologias e áreas de interesse
 
-## 🛠️ Tecnologias
-
-### Linguagem Principal
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Sistemas & Baixo Nível
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Desenvolvimento de Aplicações
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Ferramentas
+![x86-64](https://img.shields.io/badge/x86--64-4776B4?style=for-the-badge)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+**Rust · sistemas operacionais · programação de baixo nível · Linux · x86-64 · QEMU · Git**
 
-## 📊 Estatísticas no GitHub
+## 📊 GitHub
 
-![Estatísticas de GabrielCazar](https://github-readme-stats.vercel.app/api?username=GabrielCazar&show_icons=true&theme=radical&locale=pt-br)
+![Estatísticas de GabrielCazar](https://github-readme-stats.vercel.app/api?username=GabrielCazar&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCazar&layout=compact&theme=radical&locale=pt-br)
-
----
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCazar&layout=compact&theme=tokyonight&locale=pt-br)
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.cazar@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gabriel.cazar@proton.me)
