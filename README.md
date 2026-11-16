@@ -38,11 +38,32 @@ O CarlioOS ainda é um protótipo experimental. O README do projeto e seus relat
 
 **Rust · sistemas operacionais · programação de baixo nível · Linux · x86-64 · QEMU · Git**
 
-## 📊 GitHub
+## 📊 GitHub em números
 
-![Estatísticas de GabrielCazar](https://github-readme-stats.vercel.app/api?username=GabrielCazar&show_icons=true&theme=tokyonight&locale=pt-br)
+<p>
+  <a href="https://github.com/GabrielCazar?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGabrielCazar&query=%24.public_repos&label=reposit%C3%B3rios%20p%C3%BAblicos&logo=github&style=for-the-badge&color=181717" alt="Repositórios públicos"></a>
+  <a href="https://github.com/GabrielCazar?tab=followers"><img src="https://img.shields.io/github/followers/GabrielCazar?style=for-the-badge&logo=github&label=seguidores&color=181717" alt="Seguidores no GitHub"></a>
+  <a href="https://github.com/GabrielCazar/carlio-os/stargazers"><img src="https://img.shields.io/github/stars/GabrielCazar/carlio-os?style=for-the-badge&logo=github&label=estrelas%20no%20CarlioOS&color=181717" alt="Estrelas do CarlioOS"></a>
+  <a href="https://github.com/GabrielCazar/carlio-os/commits/main/"><img src="https://img.shields.io/github/commit-activity/y/GabrielCazar/carlio-os?style=for-the-badge&logo=github&label=commits%20no%20CarlioOS&color=181717" alt="Atividade de commits no CarlioOS"></a>
+  <a href="https://github.com/GabrielCazar/carlio-os/commits/main/"><img src="https://img.shields.io/github/last-commit/GabrielCazar/carlio-os?style=for-the-badge&logo=github&color=181717" alt="Último commit do CarlioOS"></a>
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCazar&layout=compact&theme=tokyonight&locale=pt-br)
+<p align="center">
+  <a href="https://github.com/GabrielCazar">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielCazar&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de GabrielCazar no GitHub">
+  </a>
+  <a href="https://github.com/GabrielCazar?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCazar&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens dos repositórios de GabrielCazar">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GabrielCazar?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCazar&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividade de GabrielCazar no GitHub">
+  </a>
+</p>
+
+Os cartões mostram estatísticas públicas e podem ter atraso de atualização. Clique nos gráficos ou badges para abrir o perfil, a lista de repositórios e o histórico de commits no GitHub.
 
 ## 📫 Contato
 
