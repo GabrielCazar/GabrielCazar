@@ -20,6 +20,10 @@ Um sistema operacional experimental de 64 bits, com kernel em Rust e foco na arq
 
 O CarlioOS ainda é um protótipo experimental. O README do projeto e seus relatórios distinguem recursos planejados, em desenvolvimento e validados, com atenção aos limites de segurança e aos resultados de teste disponíveis.
 
+### [Pegasus DS](https://github.com/GabrielCazar/PegasusDS)
+
+Servidor corporativo de diretório em desenvolvimento, escrito em Rust e projetado para oferecer identidades, autenticação e políticas aos domínios CarlIO OS. A base inicial inclui o workspace, contratos técnicos e roadmap; LDAP, Kerberos, armazenamento persistente e integração com o kernel ainda estão em fases de implementação. Distribuído sob GNU GPL v3.
+
 ## 🧭 Como trabalho
 
 - **Visão de sistemas:** interesse em como kernel, hardware, memória, armazenamento e aplicações se conectam.
